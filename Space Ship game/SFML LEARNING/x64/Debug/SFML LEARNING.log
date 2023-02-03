@@ -1,0 +1,9 @@
+﻿  BasicCollision.cpp
+C:\Users\User\Desktop\Space Ship game\SFML LEARNING\BasicCollision.cpp(41,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\Space Ship game\SFML LEARNING\BasicCollision.cpp(65,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Space Ship game\SFML LEARNING\BasicCollision.cpp(149,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Space Ship game\SFML LEARNING\BasicCollision.cpp(151,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Space Ship game\SFML LEARNING\BasicCollision.cpp(153,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Space Ship game\SFML LEARNING\BasicCollision.cpp(155,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\User\Desktop\Space Ship game\x64\Debug\SFML LEARNING.exe not found or not built by the last incremental link; performing full link
+  SFML LEARNING.vcxproj -> C:\Users\User\Desktop\Space Ship game\x64\Debug\SFML LEARNING.exe
